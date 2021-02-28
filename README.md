@@ -10,23 +10,29 @@ The purpose of this analysis was to exercise learned skills in matplotlib. In th
 Results:
 
 Total Rides:
+
 ![trides](totalrides.png)
 
 Total Drivers:
+
 ![tdrivers](totaldrivers.png)
 
 Total Fares:
+
 ![tfares](totalfares.png)
 
 From our data displayed above, we found a clear and consistent pattern between the types of cities and the rides provided in each. Urban cities have the most rides, drivers, and fares while the rural cities have the least of these. 
 
 Average Fare per Ride:
+
 ![avgf](avgfaresride.png)
 
 Average Fare per Driver:
+
 ![avgd](avgfaredriver.png)
 
 Total Fare by City Type:
+
 ![totaltype](totalfaretype.png)
 
 These averages tell us that Urban drivers make the least amount of money per drive while rural drivers make the most. This makes sense because we can infer that urban drivers have shorter trips and more trips per hour of work.
