@@ -8,7 +8,7 @@ The purpose of this analysis was to exercise learned skills in matplotlib. In th
 
 
 Results:
-        There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 Total Rides:
 ![trides](totalrides.png)
 
@@ -21,7 +21,7 @@ Total Fares:
 From our data displayed above, we found a clear and consistent pattern between the types of cities and the rides provided in each. Urban cities have the most rides, drivers, and fares while the rural cities have the least of these. 
 
 Average Fare per Ride:
-![avgf](avgfareride.png)
+![avgf](avgfaresride.png)
 
 Average Fare per Driver:
 ![avgd](avgfaredriver.png)
